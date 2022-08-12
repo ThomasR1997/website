@@ -1,0 +1,61 @@
+/* I know how to make comments */
+
+body {
+  background-color: rgb(29, 177, 177);
+  color: white;
+  margin: 0;
+  font-size: 20px;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+h3 {
+  font-size: 26px;
+  text-align: center;
+}
+
+img {
+  width: 200px;
+  height: auto;
+  border: solid 10px purple;
+  border-top: dashed 10px yellow;
+  border-bottom: dotted 10px red;
+}
+
+.sign-up {
+  background-color: whitesmoke;
+  width: 400px;
+  height: 100px;
+  padding: 10px 40px 30px;
+  margin: 20px auto;
+  border: solid 8px red;
+  border-radius: 70px;
+  outline: yellow dotted 10px;
+}
+
+.content {
+  text-align: center;
+  margin: 30px 300px;
+}
+
+.info {
+  background-color: bisque;
+  color: black;
+  text-align: center;
+}
+
+.columns {
+  display: flex;
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.column {
+  padding: 20px;
+}
